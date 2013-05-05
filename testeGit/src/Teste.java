@@ -1,4 +1,6 @@
 
 public class Teste {
-	void main(){};
+	public static void main(String[] args){
+		System.out.println("teste");
+	}
 }
